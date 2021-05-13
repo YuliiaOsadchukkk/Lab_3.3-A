@@ -1,0 +1,10 @@
+﻿  BitStringBase.cpp
+  BitString_PRIVATE.cpp
+F:\ООП\Тема 3\Lab_3.3-A\Lab_3.3A\Lab_3.3A\BitString_PRIVATE.cpp(16,26): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 3\Lab_3.3-A\Lab_3.3A\Lab_3.3A\BitString_PRIVATE.cpp(37,26): warning C4018: '<': signed/unsigned mismatch
+  BitString_PUBLIC.cpp
+F:\ООП\Тема 3\Lab_3.3-A\Lab_3.3A\Lab_3.3A\BitString_PUBLIC.cpp(16,26): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 3\Lab_3.3-A\Lab_3.3A\Lab_3.3A\BitString_PUBLIC.cpp(37,26): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Lab_3.3A.vcxproj -> F:\ООП\Тема 3\Lab_3.3-A\Lab_3.3A\Debug\Lab_3.3A.exe
